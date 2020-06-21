@@ -1,4 +1,4 @@
 console.group("ABC");
-console.log("Hello World! abc");
+console.log("Hello, you people!");
 console.groupEnd();
  
